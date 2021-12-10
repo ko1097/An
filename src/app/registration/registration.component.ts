@@ -14,22 +14,10 @@ export class RegistrationComponent implements OnInit  {
   constructor(){}
   ngOnInit(): void {
   
-    this.resetForm();
+   
       
   }
-  resetForm(form?:NgForm)
-  {
-    if(form != null)
-    form.reset();
-    this.user = {
-      'FirstName':'',
-      'LastName':'',
-      'Email':'',
-      'Password':''
-      
-    }
 
-  }
  
  }
 
