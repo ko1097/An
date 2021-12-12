@@ -2,28 +2,22 @@
     background-color: whitesmoke;
     padding: 20px;
 }
-.formss{
-    background-color: rgb(61, 60, 60);
+.head{
+    font-size: 35px;
+    color: #32a852;
+    text-decoration: none;
+    
 }
-.heading2{
-    margin-top: 40%;
-    text-align: center;
-    color: whitesmoke;
+.one{
+  margin-top: -38px;
 }
-.main{
-    margin-left: 10px;
-    margin-right: 10px;
-}
-.main2{
-float: left;
-}
-.mg-tp{
-    margin-top: 5px;
-}
-.mg-bt{
-    margin-bottom: 5px;
-}
-input.ng-invalid.ng-dirty{
-    border-color:  #e91e63 !important;
-    box-shadow: 0 1px 0 0 #e91e63 !important;
-}
+.two{
+    margin-top: -38px;
+  }
+  .three{
+    margin-top: -38px;
+  }
+  .four{
+    margin-top: -38px;
+    margin-right: 40px;
+  }
